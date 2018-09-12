@@ -1,0 +1,11 @@
+/Users/henrynguyen/coap/leshan.merge/leshan-core/src/test/java/org/eclipse/leshan/core/node/LwM2MResourceTest.java
+/Users/henrynguyen/coap/leshan.merge/leshan-core/src/test/java/org/eclipse/leshan/core/node/codec/LwM2mNodeEncoderTest.java
+/Users/henrynguyen/coap/leshan.merge/leshan-core/src/test/java/org/eclipse/leshan/core/node/codec/LwM2mNodeDecoderTest.java
+/Users/henrynguyen/coap/leshan.merge/leshan-core/src/test/java/org/eclipse/leshan/json/JsonSerializerTest.java
+/Users/henrynguyen/coap/leshan.merge/leshan-core/src/test/java/org/eclipse/leshan/tlv/TlvEncoderTest.java
+/Users/henrynguyen/coap/leshan.merge/leshan-core/src/test/java/org/eclipse/leshan/core/node/codec/Lwm2mValueConverterTest.java
+/Users/henrynguyen/coap/leshan.merge/leshan-core/src/test/java/org/eclipse/leshan/tlv/TlvDecoderTest.java
+/Users/henrynguyen/coap/leshan.merge/leshan-core/src/test/java/org/eclipse/leshan/json/JsonDeserializerTest.java
+/Users/henrynguyen/coap/leshan.merge/leshan-core/src/test/java/org/eclipse/leshan/json/ObjectModelSerDesTest.java
+/Users/henrynguyen/coap/leshan.merge/leshan-core/src/test/java/org/eclipse/leshan/ObserveSpecTest.java
+/Users/henrynguyen/coap/leshan.merge/leshan-core/src/test/java/org/eclipse/leshan/LinkObjectTest.java

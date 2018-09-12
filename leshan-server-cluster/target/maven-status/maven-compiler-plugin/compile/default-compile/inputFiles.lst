@@ -1,0 +1,17 @@
+/Users/henrynguyen/coap/leshan.merge/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/serialization/RegistrationSerDes.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/RedisTokenHandler.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/RedisRegistrationStore.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/RedisSecurityStore.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/serialization/DownlinkRequestSerDes.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/serialization/EndpointContextSerDes.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/serialization/ValueSerDes.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/RedisRegistrationEventPublisher.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/serialization/ObservationSerDes.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/RedisRequestResponseHandler.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/serialization/LwM2mNodeSerDes.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/LeshanClusterServer.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/serialization/RegistrationUpdateSerDes.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/RedisLock.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/serialization/SecurityInfoSerDes.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/serialization/IdentitySerDes.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/serialization/ResponseSerDes.java

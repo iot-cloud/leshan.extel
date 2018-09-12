@@ -1,0 +1,5 @@
+/Users/henrynguyen/coap/leshan.merge/leshan-server-cluster/src/test/java/org/eclipse/leshan/server/cluster/serialization/DownlinkRequestSerDesTest.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-cluster/src/test/java/org/eclipse/leshan/server/cluster/serialization/RegistrationUpdateSerDesTest.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-cluster/src/test/java/org/eclipse/leshan/server/cluster/serialization/RegistrationSerDesTest.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-cluster/src/test/java/org/eclipse/leshan/server/cluster/serialization/SecurityInfoSerDesTest.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-cluster/src/test/java/org/eclipse/leshan/server/cluster/serialization/ResponseSerDesTest.java

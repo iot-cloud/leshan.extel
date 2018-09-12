@@ -1,0 +1,11 @@
+/Users/henrynguyen/coap/leshan.merge/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/impl/RootResource.java
+/Users/henrynguyen/coap/leshan.merge/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/impl/CoapRequestBuilder.java
+/Users/henrynguyen/coap/leshan.merge/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/LeshanClientBuilder.java
+/Users/henrynguyen/coap/leshan.merge/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/impl/ObjectResource.java
+/Users/henrynguyen/coap/leshan.merge/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/impl/CaliforniumLwM2mRequestSender.java
+/Users/henrynguyen/coap/leshan.merge/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/impl/LwM2mClientResponseBuilder.java
+/Users/henrynguyen/coap/leshan.merge/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/impl/ResourceUtil.java
+/Users/henrynguyen/coap/leshan.merge/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/impl/SecurityObjectPskStore.java
+/Users/henrynguyen/coap/leshan.merge/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/impl/ResourceObserveFilter.java
+/Users/henrynguyen/coap/leshan.merge/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/impl/BootstrapResource.java
+/Users/henrynguyen/coap/leshan.merge/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/LeshanClient.java

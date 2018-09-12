@@ -1,0 +1,16 @@
+/Users/henrynguyen/coap/leshan.merge/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/log/CoapMessage.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/log/CoapMessageListener.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/ObjectSpecServlet.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/SecurityServlet.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/json/LwM2mNodeDeserializer.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/ClientServlet.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/json/SecuritySerializer.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/utils/EventSourceServlet.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/EventServlet.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/json/ResponseSerializer.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/json/LwM2mNodeSerializer.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/json/SecurityDeserializer.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/LeshanServerDemo.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/log/CoapMessageTracer.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/json/RegistrationSerializer.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/utils/EventSource.java

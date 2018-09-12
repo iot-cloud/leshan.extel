@@ -1,0 +1,10 @@
+/Users/henrynguyen/coap/leshan.merge/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/AbstractRequestObserver.java
+/Users/henrynguyen/coap/leshan.merge/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/CoapSyncRequestObserver.java
+/Users/henrynguyen/coap/leshan.merge/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/CoapAsyncRequestObserver.java
+/Users/henrynguyen/coap/leshan.merge/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/EndpointFactory.java
+/Users/henrynguyen/coap/leshan.merge/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/CoapResponseCallback.java
+/Users/henrynguyen/coap/leshan.merge/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/SyncRequestObserver.java
+/Users/henrynguyen/coap/leshan.merge/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/AsyncRequestObserver.java
+/Users/henrynguyen/coap/leshan.merge/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/Lwm2mEndpointContextMatcher.java
+/Users/henrynguyen/coap/leshan.merge/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/EndpointContextUtil.java
+/Users/henrynguyen/coap/leshan.merge/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/ResponseCodeUtil.java

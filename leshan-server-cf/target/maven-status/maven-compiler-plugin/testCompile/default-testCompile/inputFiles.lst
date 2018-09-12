@@ -1,0 +1,6 @@
+/Users/henrynguyen/coap/leshan.merge/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/impl/ObservationServiceTest.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/LeshanBootstrapServerBuilderTest.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/impl/InMemoryRegistrationStoreTest.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/impl/CoapRequestBuilderTest.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/impl/CaliforniumTestSupport.java
+/Users/henrynguyen/coap/leshan.merge/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/LeshanServerBuilderTest.java

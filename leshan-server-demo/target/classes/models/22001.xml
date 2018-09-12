@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LWM2M  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://openmobilealliance.org/tech/profiles/LWM2M.xsd">
+	<Object ObjectType="MODefinition">
+		<Name>Picture</Name>
+		<Description1>Picture</Description1>
+		<ObjectID>22001</ObjectID>
+		<ObjectURN>urn:oma:lwm2m:ext:22001</ObjectURN>
+		<MultipleInstances>Single</MultipleInstances>
+		<Mandatory>Optional</Mandatory>
+		<Resources>
+			<Item ID="0">
+				<Name>File</Name>
+				<Operations>NONE</Operations>
+				<MultipleInstances>Single</MultipleInstances>
+				<Mandatory>Mandatory</Mandatory>
+				<Type>Opaque</Type>
+				<RangeEnumeration></RangeEnumeration>
+				<Units>Defined by “Units” resource.</Units>
+				<Description>사진 파일(.zip)</Description>
+			</Item>
+			<Item ID="1">
+				<Name>Target OID</Name>
+				<Operations>RW</Operations>
+				<MultipleInstances>Single</MultipleInstances>
+				<Mandatory>Mandatory</Mandatory>
+				<Type>String</Type>
+				<RangeEnumeration></RangeEnumeration>
+				<Units>Defined by “Units” resource.</Units>
+				<Description>사진대상이 되는 장치(eIoT게이트웨이,eIoT디바이스)의 OID</Description>
+			</Item>
+			<Item ID="2">
+				<Name>State</Name>
+				<Operations>RW</Operations>
+				<MultipleInstances>Single</MultipleInstances>
+				<Mandatory>Mandatory</Mandatory>
+				<Type>Integer</Type>
+				<RangeEnumeration>0-3</RangeEnumeration>
+				<Units>Defined by “Units” resource.</Units>
+				<Description>사진파일 업로드 상태정보, 0(Idle),1(Uploading),2(Uploaded),3(Awaiting)</Description>
+			</Item>
+			<Item ID="3">
+				<Name>Upload</Name>
+				<Operations>E</Operations>
+				<MultipleInstances>Single</MultipleInstances>
+				<Mandatory>Mandatory</Mandatory>
+				<Type>String</Type>
+				<RangeEnumeration></RangeEnumeration>
+				<Units>Defined by “Units” resource.</Units>
+				<Description>eIoT현장단말 사진업로드 실패 등의 이유로 eIoT플랫폼이 사진업로드 요청할 수 있음</Description>
+			</Item>
+		</Resources>
+		<Description2></Description2>
+	</Object>
+</LWM2M>

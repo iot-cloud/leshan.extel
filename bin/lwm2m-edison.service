@@ -1,0 +1,13 @@
+[Unit]
+Description=LwM2M - Edison Application
+Requires=wpa_supplicant
+
+
+[Service]
+Type=simple
+WorkingDirectory=/home/henrynguyen/coap/leshan.merge
+ExecStart=/home/henrynguyen/coap/leshan.merge/bin/run_edison.sh
+
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,268 @@
+{
+  "ncoap": {
+    "servers": {
+      "0": {
+        "shortId": 123,
+        "lifetime": 20,
+        "defaultMinPeriod": 1,
+        "notifIfDisabled": true,
+        "binding": "U"
+      }
+    },
+    "security": {
+      "0": {
+        "uri": "coap://192.168.30.221:5683",
+        "bootstrapServer": true,
+        "securityMode": "NO_SEC",
+        "publicKeyOrId": [],
+        "serverPublicKey": [],
+        "secretKey": [],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 111,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      },
+      "1": {
+        "uri": "coap://192.168.30.222:5683",
+        "bootstrapServer": false,
+        "securityMode": "NO_SEC",
+        "publicKeyOrId": [],
+        "serverPublicKey": [],
+        "secretKey": [],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 123,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      }
+    }
+  },
+  "S-Extel-02": {
+    "servers": {
+      "0": {
+        "shortId": 123,
+        "lifetime": 20,
+        "defaultMinPeriod": 1,
+        "notifIfDisabled": true,
+        "binding": "U"
+      }
+    },
+    "security": {
+      "0": {
+        "uri": "coap://192.168.30.133:5683",
+        "bootstrapServer": true,
+        "securityMode": "NO_SEC",
+        "publicKeyOrId": [],
+        "serverPublicKey": [],
+        "secretKey": [],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 111,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      },
+      "1": {
+        "uri": "coaps://192.168.30.123:5684",
+        "bootstrapServer": false,
+        "securityMode": "PSK",
+        "publicKeyOrId": [
+          83,
+          45,
+          69,
+          120,
+          116,
+          101,
+          108,
+          45,
+          48,
+          50
+        ],
+        "serverPublicKey": [],
+        "secretKey": [
+          19,
+          4,
+          98
+        ],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 123,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      }
+    }
+  },
+  "Extel-02": {
+    "servers": {
+      "0": {
+        "shortId": 123,
+        "lifetime": 20,
+        "defaultMinPeriod": 1,
+        "notifIfDisabled": true,
+        "binding": "U"
+      }
+    },
+    "security": {
+      "0": {
+        "uri": "coap://192.168.30.133:5683",
+        "bootstrapServer": true,
+        "securityMode": "NO_SEC",
+        "publicKeyOrId": [],
+        "serverPublicKey": [],
+        "secretKey": [],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 111,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      },
+      "1": {
+        "uri": "coap://192.168.30.123:5683",
+        "bootstrapServer": false,
+        "securityMode": "NO_SEC",
+        "publicKeyOrId": [],
+        "serverPublicKey": [],
+        "secretKey": [],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 123,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      }
+    }
+  },
+  "EXTEL-01": {
+    "servers": {
+      "0": {
+        "shortId": 123,
+        "lifetime": 20,
+        "defaultMinPeriod": 1,
+        "notifIfDisabled": true,
+        "binding": "U"
+      }
+    },
+    "security": {
+      "0": {
+        "uri": "coap://192.168.30.133:5683",
+        "bootstrapServer": true,
+        "securityMode": "NO_SEC",
+        "publicKeyOrId": [],
+        "serverPublicKey": [],
+        "secretKey": [],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 111,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      },
+      "1": {
+        "uri": "coap://192.168.30.123:5683",
+        "bootstrapServer": false,
+        "securityMode": "NO_SEC",
+        "publicKeyOrId": [],
+        "serverPublicKey": [],
+        "secretKey": [],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 123,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      }
+    }
+  },
+  "S-BS-Extel-02": {
+    "servers": {
+      "0": {
+        "shortId": 123,
+        "lifetime": 20,
+        "defaultMinPeriod": 1,
+        "notifIfDisabled": true,
+        "binding": "U"
+      }
+    },
+    "security": {
+      "0": {
+        "uri": "coap://192.168.30.133:5684",
+        "bootstrapServer": true,
+        "securityMode": "PSK",
+        "publicKeyOrId": [
+          83,
+          45,
+          66,
+          83,
+          45,
+          69,
+          120,
+          116,
+          101,
+          108,
+          45,
+          48,
+          50
+        ],
+        "serverPublicKey": [],
+        "secretKey": [
+          19,
+          4,
+          98
+        ],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 111,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      },
+      "1": {
+        "uri": "coaps://192.168.30.123:5684",
+        "bootstrapServer": false,
+        "securityMode": "PSK",
+        "publicKeyOrId": [
+          83,
+          45,
+          66,
+          83,
+          45,
+          69,
+          120,
+          116,
+          101,
+          108,
+          45,
+          48,
+          50
+        ],
+        "serverPublicKey": [],
+        "secretKey": [
+          19,
+          4,
+          98
+        ],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 123,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      }
+    }
+  }
+}
